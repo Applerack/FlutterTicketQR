@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697853823439",
+    "project_id": "nibmticket",
+    "storage_bucket": "nibmticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697853823439:android:66251f85f6b1d65a112aba",
+        "android_client_info": {
+          "package_name": "com.example.nibm_qr_ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBlFyn_yYfpFxQCxhdjHLjYv3IWFQInQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
