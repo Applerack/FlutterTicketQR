@@ -1,16 +1,22 @@
-# nibm_qr_ticket
+# FlutterTicketQR
 
-A new Flutter project.
+A  Flutter project for Issue, Scann, and Manage Tickets 
+Working with Google Firebase
+
+![Image Alt Text](https://storage.googleapis.com/cms-storage-bucket/ed2e069ee37807f5975a.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Create a new Firebase project at https://console.firebase.google.com.
+2. Add a new collection to the Firestore database with the name "login" to save admin logins with the following attributes:
 
-A few resources to get you started if this is your first Flutter project:
+   nativeId - This is a unique ID for each application, added as an extra security layer. Even if someone obtains admin passwords, they can't log in because their native ID is not authorized.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   username - Admin username ( you can use any )
+   Password - Admin Password ( you can use any )
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Build the application with Flutter & enjoy! ❤️
+
+ Don't forget to show your support with a star ⭐️ for this project
+
+
