@@ -14,7 +14,7 @@ A Flutter project for issuing, scanning, and managing tickets. Works with Google
    Password - Admin Password ( you can use any )
    
 
-3.Build the application with Flutter & enjoy! ❤️
+3. Run 'flutter pub get' to install dependencies. Build the application with Flutter and enjoy! ❤️
 
 Don't forget to show your support with a star ⭐️ for this project
 
